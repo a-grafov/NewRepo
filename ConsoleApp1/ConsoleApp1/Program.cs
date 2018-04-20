@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             int i = 2;
             i += 3;
+            i = 1245;
+
             Console.WriteLine(i);
             Console.WriteLine("Hello World!");
         }
